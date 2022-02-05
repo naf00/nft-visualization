@@ -2,4 +2,4 @@
 
 Please refer to this medium story for detailed decsription. 
 
-https://chart-studio.plotly.com/~naf.se/1
+Interactive (Plotly) vis can be viewed on https://chart-studio.plotly.com/~naf.se/1
